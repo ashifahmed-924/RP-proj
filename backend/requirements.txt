@@ -1,0 +1,28 @@
+flask==3.0.0
+flask-cors==4.0.0
+flask-pymongo==2.3.0
+pymongo==4.6.1
+python-dotenv==1.0.0
+bcrypt==4.1.2
+PyJWT==2.8.0
+email-validator==2.1.0
+dnspython==2.4.2
+
+# ECESE - FastAPI for Education Content Extraction
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+pydantic==2.5.3
+
+# PDF Processing
+PyMuPDF==1.23.8
+
+# Semantic Embeddings for ECESE Scope Guard
+sentence-transformers==2.2.2
+torch>=2.0.0
+numpy>=1.24.0
+
+# Groq API for Content Structuring
+groq==0.4.2
+
+
