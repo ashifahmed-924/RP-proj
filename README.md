@@ -56,6 +56,30 @@ Extracts, parses, and structures educational content from textbooks, teacher gui
 
 ---
 
+## 📚 3. Micro-Learning via Daily Challenges
+
+### Purpose  
+Delivers daily, syllabus-aligned micro-learning tasks to improve engagement, retention, and habit formation.
+
+### Features  
+- Adaptive task scheduling  
+- Teacher-approved micro-lessons  
+- Motivation-aware reminders  
+- Comparative analytics (micro vs clustered learning)  
+
+### Technologies  
+- *Frontend:* React.js / React Native  
+- *Backend:* Spring Boot / Node.js  
+- *Analytics:* D3.js, Matomo  
+- *Database:* MongoDB / Firebase / AWS S3  
+
+### Evaluation Metrics  
+- Retention improvement  
+- Streak continuation rate  
+- Dropout reduction  
+
+---
+
 
 ## 📈 4. Progress Monitoring & Streak Analytics System (PMSAS)
 
@@ -104,28 +128,5 @@ Tracks student engagement and progress using streaks, badges, awards, and predic
 - SaaS platform for *schools, **tutoring centers, and **universities*  
 - Subscription/licensing model  
 - Unique selling point: *Curriculum-specific personalization + teacher oversight*  
-
----
-📚 Micro-Learning via Daily Challenges
-
-### Purpose  
-Delivers daily, syllabus-aligned micro-learning tasks to improve engagement, retention, and habit formation.
-
-### Features  
-- Adaptive task scheduling  
-- Teacher-approved micro-lessons  
-- Motivation-aware reminders  
-- Comparative analytics (micro vs clustered learning)  
-
-### Technologies  
-- *Frontend:* React.js / React Native  
-- *Backend:* Spring Boot / Node.js  
-- *Analytics:* D3.js, Matomo  
-- *Database:* MongoDB / Firebase / AWS S3  
-
-### Evaluation Metrics  
-- Retention improvement  
-- Streak continuation rate  
-- Dropout reduction  
 
 ---
